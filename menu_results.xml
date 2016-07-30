@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rash.stockmarketviewer.Results">
+    <item
+        android:id="@+id/fav"
+        android:title="Favourite"
+        app:showAsAction="always"
+        android:icon="@android:drawable/btn_star_big_off"/>
+</menu>

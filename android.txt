@@ -1,0 +1,4 @@
+16) Add spinner to autocomplete. ----------------------- P4	
+5) Progress dialog on refresh and autorefresh.---------- P5
+---------------------------------------------------
+9) Format all values		

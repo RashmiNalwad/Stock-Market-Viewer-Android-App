@@ -1,0 +1,24 @@
+  URL url = null;
+//        HttpURLConnection urlConnection= null;
+//        try
+//        {
+//            url = new URL("http://stockapp571.appspot.com/php?Symbol='AAPL'");
+//            urlConnection = (HttpURLConnection) url.openConnection();
+//            InputStream in = urlConnection.getInputStream();
+//            InputStreamReader isr = new InputStreamReader(in);
+//            int data = isr.read();
+//            while(data != -1) {
+//                char current = (char) data;
+//                data = isr.read();
+//                System.out.print(current);
+//            }
+//        }
+//        catch(Exception e)
+//        {
+//            e.printStackTrace();
+//        }
+//        finally
+//        {
+//            if(urlConnection != null)
+//                urlConnection.disconnect();
+//        }
